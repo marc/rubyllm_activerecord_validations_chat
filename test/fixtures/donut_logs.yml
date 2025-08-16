@@ -1,0 +1,23 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+plain_glazed:
+  user_id: 1
+  amount: 1.0
+  ate_at: 2025-08-16 15:08:11
+  donut_type: glazed
+  flavor: plain
+  glaze: plain
+  filling: 
+  location: 
+  note: 
+
+apple_fritter:
+  user_id: 1
+  amount: 0.5
+  ate_at: 2025-08-16 15:08:11
+  donut_type: fritter
+  flavor: apple
+  glaze: 
+  filling: 
+  location: 
+  note: 
